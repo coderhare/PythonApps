@@ -1,2 +1,2 @@
 # PythonApps
-Some interesting programs I thought.
+Some interesting programs I think.
