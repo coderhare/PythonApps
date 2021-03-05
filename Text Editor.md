@@ -34,5 +34,5 @@ Button(text='Save', command=save).pack(side=LEFT)
 mainloop()
 ```
 
-![image-20210305205215072](/Users/wocaibujiaoquanmei/Library/Application Support/typora-user-images/image-20210305205215072.png)
+![image](https://github.com/coderhare/PythonApps/blob/main/images/Text_Editor_v1.png)
 
